@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37128" started-at="2018-06-28T06:30:47Z" finished-at="2018-06-28T06:31:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37128" started-at="2018-06-28T06:30:47Z" finished-at="2018-06-28T06:31:24Z">
+      <class name="BingTranslator">
+        <test-method status="PASS" signature="init()[pri:0, instance:BingTranslator@2a5ca609]" name="init" is-config="true" duration-ms="4041" started-at="2018-06-28T12:00:47Z" finished-at="2018-06-28T12:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="step01_LaunchURL()[pri:0, instance:BingTranslator@2a5ca609]" name="step01_LaunchURL" duration-ms="691" started-at="2018-06-28T12:00:51Z" finished-at="2018-06-28T12:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step01_LaunchURL -->
+        <test-method status="PASS" signature="step02_ClickOnText()[pri:0, instance:BingTranslator@2a5ca609]" name="step02_ClickOnText" duration-ms="811" started-at="2018-06-28T12:00:51Z" finished-at="2018-06-28T12:00:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step02_ClickOnText -->
+        <test-method status="PASS" signature="step03_ClickOnConversation()[pri:0, instance:BingTranslator@2a5ca609]" name="step03_ClickOnConversation" duration-ms="3732" started-at="2018-06-28T12:00:52Z" finished-at="2018-06-28T12:00:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step03_ClickOnConversation -->
+        <test-method status="PASS" signature="step04_ClickOnApps()[pri:0, instance:BingTranslator@2a5ca609]" name="step04_ClickOnApps" duration-ms="4649" started-at="2018-06-28T12:00:56Z" finished-at="2018-06-28T12:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step04_ClickOnApps -->
+        <test-method status="PASS" signature="step05_ClickOnForBusiness()[pri:0, instance:BingTranslator@2a5ca609]" name="step05_ClickOnForBusiness" duration-ms="5896" started-at="2018-06-28T12:01:01Z" finished-at="2018-06-28T12:01:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step05_ClickOnForBusiness -->
+        <test-method status="PASS" signature="step05_ClickOnHelp()[pri:0, instance:BingTranslator@2a5ca609]" name="step05_ClickOnHelp" duration-ms="3470" started-at="2018-06-28T12:01:07Z" finished-at="2018-06-28T12:01:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step05_ClickOnHelp -->
+        <test-method status="PASS" signature="step06_dropdown()[pri:0, instance:BingTranslator@2a5ca609]" name="step06_dropdown" duration-ms="5277" started-at="2018-06-28T12:01:10Z" finished-at="2018-06-28T12:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step06_dropdown -->
+        <test-method status="PASS" signature="step07_TextBox()[pri:0, instance:BingTranslator@2a5ca609]" name="step07_TextBox" duration-ms="5122" started-at="2018-06-28T12:01:15Z" finished-at="2018-06-28T12:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step07_TextBox -->
+        <test-method status="PASS" signature="step08_SwapButton()[pri:0, instance:BingTranslator@2a5ca609]" name="step08_SwapButton" duration-ms="1088" started-at="2018-06-28T12:01:20Z" finished-at="2018-06-28T12:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step08_SwapButton -->
+        <test-method status="PASS" signature="close()[pri:0, instance:BingTranslator@2a5ca609]" name="close" is-config="true" duration-ms="2318" started-at="2018-06-28T12:01:21Z" finished-at="2018-06-28T12:01:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- BingTranslator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
